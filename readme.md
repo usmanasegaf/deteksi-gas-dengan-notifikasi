@@ -89,12 +89,6 @@ https://api.telegram.org/bot<BOT_TOKEN>/sendMessage?chat_id=<CHAT_ID>&text=...
 
 ---
 
-## 🛡️ Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT. Silakan gunakan, modifikasi, dan distribusikan sesuai kebutuhan.
-
----
-
 ## 🤝 Kontribusi
 
 Kontribusi sangat terbuka! Silakan fork, buka pull request, atau diskusikan fitur baru via issue.
