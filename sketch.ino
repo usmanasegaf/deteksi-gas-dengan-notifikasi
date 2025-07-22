@@ -8,12 +8,11 @@
 const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 
-
 const char* telegramBotToken = "8090456066:AAGx42e_wvjSMuuz1hf_7Y9MIDGGhGtmYZw";
 const char* chatID = "8199538562";
 
 unsigned long waktuTerakhirKirim = 0;
-const unsigned long intervalKirim = 10000;
+const unsigned long intervalKirim = 10000; 
 
 void setup() {
   Serial.begin(115200);
